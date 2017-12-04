@@ -35,4 +35,5 @@
     * [TLS certificates](deploy/certificates.md)
     * [Redis high availability](deploy/sentinel.md)
     * [Tuning operating system](deploy/tuning.md)
+    * [Prometheus metrics](deploy/prometheus.md)
 * [FAQ](FAQ.md)
